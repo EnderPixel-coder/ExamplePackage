@@ -1,2 +1,0 @@
-ExamplePackage
-Custom Unity Package
